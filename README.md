@@ -1,4 +1,4 @@
-Login & Registration Form 
+## Login & Registration Form 
 
 A clean, responsive, and accessible Login and Registration Form built strictly using semantic HTML5 and CSS3—without any JavaScript dependencies.
 
@@ -6,7 +6,7 @@ A clean, responsive, and accessible Login and Registration Form built strictly u
 live link: https://raihanz697.github.io/web-technologies-asignment-01/
 
 
-✨ Features
+## ✨ Features
 
 Zero JavaScript Navigation: Seamless switching between the Login and Registration views using the CSS :target and :has() pseudo-classes.
 
@@ -18,9 +18,9 @@ Secure Submission: Both forms are configured to transmit data via the POST metho
 
 
 
-📋 Included Form Elements
+## 📋 Included Form Elements
 
-1. Login Form
+## 1. Login Form
 
 Email Input (type="email", required)
 
@@ -30,7 +30,7 @@ Login Submit Button
 
 Navigation Link to switch directly to the Registration Form
 
-2. Registration Form
+## 2. Registration Form
 
 Full Name (type="text", required)
 
@@ -58,14 +58,12 @@ Navigation Link to return to the Login Form
 
 
 
-🚀 How to Run
+## 🚀 How to Run
 
-Download or clone the project files into a local folder.
+Download or clone the project files into a local folder:
+   ```bash
+git clone:  https://github.com/Raihanz697/web-technologies-asignment-01.git
 
-git clone: https://github.com/Raihanz697/web-technologies-asignment-01.git
 
-Open the index.html file in any modern web browser (Chrome, Firefox, Edge, Safari).
-
-Click "Register here" at the bottom of the Login card to switch to the Registration Form, and "Login here" to switch back.
 
 
