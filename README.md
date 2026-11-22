@@ -4,6 +4,8 @@ A clean, responsive, and accessible Login and Registration Form built strictly u
 
 🌐 Live Demo
 live link: https://raihanz697.github.io/web-technologies-asignment-01/
+
+
 ✨ Features
 
 Zero JavaScript Navigation: Seamless switching between the Login and Registration views using the CSS :target and :has() pseudo-classes.
@@ -53,6 +55,8 @@ Terms and Conditions (Required agreement checkbox)
 Action Buttons (Submit and Reset)
 
 Navigation Link to return to the Login Form
+
+
 
 🚀 How to Run
 
