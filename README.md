@@ -12,7 +12,7 @@ Built-in Form Validation: Utilizes native HTML5 validation attributes (required,
 
 Secure Submission: Both forms are configured to transmit data via the POST method.
 
-Responsive UI: Centered card layout styled with modern CSS3 (Flexbox, subtle box shadows, and smooth focus transitions) that adapts cleanly across desktop and mobile screens.
+
 
 📋 Included Form Elements
 
@@ -40,11 +40,11 @@ Date of Birth (type="date", required)
 
 Gender Selection (Radio buttons: Male, Female, Other)
 
-Skills / Interests (Checkboxes: HTML, CSS, JavaScript, Python)
+Skills / Interests (Checkboxes: HTML, CSS, JavaScript)
 
 Division / City (Dropdown <select> menu with multiple options)
 
-Short Bio / Address (<textarea>)
+Short Bio (<textarea>)
 
 Terms and Conditions (Required agreement checkbox)
 
@@ -56,11 +56,10 @@ Navigation Link to return to the Login Form
 
 Download or clone the project files into a local folder.
 
+git clone: https://github.com/Raihanz697/web-technologies-asignment-01.git
+
 Open the index.html file in any modern web browser (Chrome, Firefox, Edge, Safari).
 
 Click "Register here" at the bottom of the Login card to switch to the Registration Form, and "Login here" to switch back.
 
-📂 Project Structure
 
-├── index.html      # Complete HTML structure and embedded CSS styling
-└── README.md       # Project documentation
