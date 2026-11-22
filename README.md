@@ -37,4 +37,5 @@ A clean, responsive **Login and Registration Form** built using pure **HTML5** a
 1. Download or clone the project files into a local folder:
 
 ```bash
-git clone [https://github.com/Raihanz697/web-technologies-asignment-01.git](https://github.com/Raihanz697/web-technologies-asignment-01.git)
+git clone (https://github.com/Raihanz697/web-technologies-asignment-01.git)
+
